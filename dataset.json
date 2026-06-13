@@ -1,0 +1,11 @@
+[
+  {
+    "task": "Write a Python function that parses an AWS S3 object key and extracts the bucket name, folder path, and file name from a full S3 URI (e.g., 's3://my-bucket/path/to/file.txt')"
+  },
+  {
+    "task": "Create a JSON CloudFormation template snippet that defines an AWS Lambda function resource with basic configuration including runtime, handler, and an IAM execution role"
+  },
+  {
+    "task": "Write a regular expression that matches valid AWS IAM policy ARNs in the format 'arn:aws:iam::ACCOUNT-ID:policy/POLICY-NAME' and captures the account ID and policy name separately"
+  }
+]
